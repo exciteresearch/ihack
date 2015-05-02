@@ -1,0 +1,18 @@
+{
+  "name": "ihack",
+  "version": "1.0.0",
+  "description": "hackathon project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exciteresearch/ihack.git"
+  },
+  "author": "DJ Nadgar",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/exciteresearch/ihack/issues"
+  }
+}
